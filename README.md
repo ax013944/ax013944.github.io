@@ -1,9 +1,9 @@
-# ax013944-.github.io
-<html>
-<head>
-<meta charset="utf-8">
+
+# ax013944-.github.io<html>
+
+
 <title style="color: blue">welcome</title>
-</head>
+
 <style>
   .gray-text {
     color: gray;
