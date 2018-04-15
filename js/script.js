@@ -8,10 +8,10 @@
 {
 {
 title: '咕韃子想要變可愛',
-artist: 'Matt B',
-album: 'LOVE AND WAR',
-cover: 'img/8.jpg',
-mp3: 'mp3/Matt B - Color Blind.mp3',
+artist: '未知',
+album: '未知',
+cover: 'img/1.jpg',
+mp3: 'mp3/咕韃子想要變可愛.mp3',
 ogg: ''
 },
 ];
