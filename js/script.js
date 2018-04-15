@@ -6,11 +6,11 @@
 		autoplay = true,
 		playlist = [
 {
-title: '咕噠子想變可愛',
+title: '咕噠子想要變可愛',
 artist: '未知',
 album: '未知',
 cover: 'img/1.jpg',
-mp3: 'mp3/咕韃子想變可愛.mp3',
+mp3: 'mp3/咕韃子想要變可愛.mp3',
 ogg: ''
 },
 ];
