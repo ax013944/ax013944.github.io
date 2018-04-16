@@ -17,7 +17,7 @@ ogg: ''
 title: '打上花火',
 artist: 'DAOKO × 米津玄師',
 album: '未知',
-cover: 'img/ㄉ.jpg',
+cover: 'img/2.jpg',
 mp3: 'mp3/DAOKO × 米津玄師『打上花火』MUSIC VIDEO.mp3',
 ogg: ''
 },
